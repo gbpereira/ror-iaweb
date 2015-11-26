@@ -8,5 +8,10 @@
     "operadores-aritmeticos.md",
     "operadores-atribuicao.md",
     "operadores-comparacao.md",
-    "operadores-outros.md"
+    "operadores-outros.md",
+    "condicionais-if.md",
+    "condicionais-if-inline.md",
+    "condicionais-unless.md",
+    "case-i.md",
+    "case-sym.md"
 ]

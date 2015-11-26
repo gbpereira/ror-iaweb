@@ -9,8 +9,8 @@
 12 > 14         # maior
 12 >= 14        # maior ou igual
 
-# (-1) se (a < b);
-# (0) se (a == b);
+# (-1) se (a < b)
+# (0) se (a == b)
 # (1) se (a > b)
 a <=> b
 ```
