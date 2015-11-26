@@ -12,6 +12,8 @@
     "condicionais-if.md",
     "condicionais-if-inline.md",
     "condicionais-unless.md",
-    "case-i.md",
-    "case-sym.md"
+    "condicionais-case-i.md",
+    "condicionais-case-sym.md",
+    "lacos-while.md",
+    "lacos-outros.md"
 ]
