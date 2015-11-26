@@ -22,6 +22,7 @@
     "hash-utilizacao.md",
     "metodos-declaracao.md",
     "metodos-convencao.md",
-    "classes.md",
-    "classes-utilizacao.md"
+    "classes-declaracao.md",
+    "classes-utilizacao.md",
+    "heranca.md"
 ]
