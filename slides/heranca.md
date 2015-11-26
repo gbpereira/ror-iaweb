@@ -10,14 +10,14 @@ end
 ```
 
 ```ruby
-a = Dog.new
+> a = Dog.new
 
-a.respond_to?(:name)
+> a.respond_to?(:name)
 # => true
 
-a.class
+> a.class
 # => Dog
 
-a.class.superclass
+> a.class.superclass
 # => Animal
 ```

@@ -24,5 +24,8 @@
     "metodos-convencao.md",
     "classes-declaracao.md",
     "classes-utilizacao.md",
-    "heranca.md"
+    "heranca.md",
+    "modulos.md",
+    "acesso.md",
+    "overload.md"
 ]
