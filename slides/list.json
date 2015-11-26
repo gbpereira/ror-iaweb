@@ -15,5 +15,9 @@
     "condicionais-case-i.md",
     "condicionais-case-sym.md",
     "lacos-while.md",
-    "lacos-outros.md"
+    "lacos-outros.md",
+    "array-inicializacao.md",
+    "array-utilizacao.md",
+    "hash-inicializacao.md",
+    "hash-utilizacao.md"
 ]
