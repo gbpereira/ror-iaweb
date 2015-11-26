@@ -1,17 +1,17 @@
 ### Variáveis
 
 ```ruby
-# declaração de variáveis
-integer = 1     # fixnum
+# declaracao de alguns tipos de variaveis
+integer = 1
 float = 1.0
 array = []
 hash = {}
-string = 'Olá Seccomp!'
-symbol = :seccomp
+string = 'unesp'
+symbol = :comp
 range = (1..10)
 regexp = /one/
 
-# declaração inline
+# declaracao inline
 a, b, c, d = 1, 2, 3, 4
 ```
 

@@ -1,4 +1,4 @@
-### Heranca
+### Herança
 
 ```ruby
 class Animal

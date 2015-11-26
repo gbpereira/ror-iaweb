@@ -1,5 +1,6 @@
 [
     "index.md",
+    "ruby.md",
     "hello_world.md",
     "comentarios.md",
     "variaveis-declaracao.md",
@@ -27,5 +28,7 @@
     "heranca.md",
     "modulos.md",
     "acesso.md",
-    "overload.md"
+    "overload.md",
+    "rails.md",
+    "rest.md"
 ]
