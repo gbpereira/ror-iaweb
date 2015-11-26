@@ -11,3 +11,7 @@ $year = 2015    # variável global
 YEAR = 2015     # constante
 Year = 2015     # constante
 ```
+
+```ruby
+> defined? var # => "local-variable"
+```

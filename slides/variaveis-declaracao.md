@@ -14,3 +14,7 @@ regexp = /one/
 # declaração inline
 a, b, c, d = 1, 2, 3, 4
 ```
+
+```ruby
+> var.class # => Fixnum
+```

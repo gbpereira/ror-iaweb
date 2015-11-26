@@ -3,5 +3,10 @@
     "hello_world.md",
     "comentarios.md",
     "variaveis-declaracao.md",
-    "variaveis-tipos.md"
+    "variaveis-tipos.md",
+    "tipagem.md",
+    "operadores-aritmeticos.md",
+    "operadores-atribuicao.md",
+    "operadores-comparacao.md",
+    "operadores-outros.md"
 ]
