@@ -29,6 +29,14 @@
     "modulos.md",
     "acesso.md",
     "overload.md",
-    "rails.md",
-    "rest.md"
+    "tools.md",
+    "gems.md",
+    "rvm.md",
+    "bundler.md",
+    "rakes.md",
+    "conceitos.md",
+    "tdd.md",
+    "mvc.md",
+    "rest.md",
+    "rails.md"
 ]
