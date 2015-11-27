@@ -1,6 +1,7 @@
 [
     "index.md",
     "ruby.md",
+    "irb.md",
     "hello_world.md",
     "comentarios.md",
     "variaveis-declaracao.md",
@@ -38,5 +39,10 @@
     "tdd.md",
     "mvc.md",
     "rest.md",
-    "rails.md"
+    "rails.md",
+    "rails-console.md",
+    "models-migrations.md",
+    "controllers-routes.md",
+    "views-helpers-assets.md",
+    "final.md"
 ]
